@@ -225,5 +225,4 @@ For support, contact:
 ---
 
 ## ⭐ **Like this project? Give it a star!**
-```markdown
 ⭐ Star this repo on GitHub → [GitHub Repo](https://github.com/stephendache/resume-api)
