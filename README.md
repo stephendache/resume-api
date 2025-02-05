@@ -163,12 +163,3 @@ This project is licensed under the **MIT License**.
 ## ✨ **Star this Repo! ⭐**
 If you found this useful, consider **starring** ⭐ the repo & sharing it! 😊  
 ```
-
----
-
-## **🚀 Next Steps**
-1️⃣ **Do you want badges for test coverage (Codecov)?**  
-2️⃣ **Need a Postman collection export?**  
-3️⃣ **Want a live demo link added?**  
-
-Let me know how you'd like to refine it! 🚀🔥
