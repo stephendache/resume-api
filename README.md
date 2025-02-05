@@ -1,14 +1,8 @@
----
-
-### **📄 README.md**
-```md
 # 🚀 Resume & Cover Letter Generator API
 
 ![License](https://img.shields.io/badge/license-MIT-green) ![Node.js](https://img.shields.io/badge/node.js-18.x-green) ![Express.js](https://img.shields.io/badge/express.js-4.x-blue) ![Paystack](https://img.shields.io/badge/Paystack-API-orange) ![Swagger](https://img.shields.io/badge/Swagger-UI-yellow)
 
 The **Resume & Cover Letter Generator API** is a powerful **Node.js + Express API** that generates professional **resumes & cover letters** using **AI (GPT-4)**. It includes **Paystack integration** for payments, API authentication, and **Swagger documentation** for easy testing.
-
----
 
 ## 📌 **Features**
 ✅ AI-generated **resumes & cover letters** using OpenAI  
